@@ -1,5 +1,6 @@
 void func6()
 {
   int a = 0;
-  printf("%d", a);
+  int b = 1;
+  printf("%d%d", a, b);
 }
